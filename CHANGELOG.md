@@ -1,3 +1,7 @@
+[0.3.42]
+
+- Add indonesian feature
+
 [0.2.12]
 
 - Add Dart support

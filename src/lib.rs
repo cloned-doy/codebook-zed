@@ -5,7 +5,7 @@ use zed_extension_api::{self as zed, GithubRelease, Result};
 // Binary and versioning constants
 const EXTENSION_LSP_NAME: &str = "codebook-lsp";
 const VERSION_FILE: &str = ".version";
-const GITHUB_REPO_OWNER: &str = "blopker";
+const GITHUB_REPO_OWNER: &str = "cloned-doy";
 const GITHUB_REPO_NAME: &str = "codebook";
 
 // Environment variable constants
