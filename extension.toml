@@ -5,7 +5,7 @@ description = "📒 A fast, code aware spell checker."
 authors = ["Bo"]
 license = "MIT"
 schema_version = 1
-repository = "https://github.com/blopker/codebook"
+repository = "https://github.com/cloned-doy/codebook"
 
 [language_servers.codebook]
 name = "codebook"
